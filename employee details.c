@@ -8,7 +8,7 @@ typedef struct
 Employee;
 int main()
 {
-    int i, n=3;
+    int i, n=20;
     Employee emp[n];
     printf("Enter %d Employee Details \n \n",n);
     for(i=0; i<n; i++)
